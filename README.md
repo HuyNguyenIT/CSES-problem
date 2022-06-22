@@ -1,2 +1,2 @@
 # CSES-problem
-Luyện code vì đam mê :>>
+Luyện code thuật toán vì đam mê :>>
